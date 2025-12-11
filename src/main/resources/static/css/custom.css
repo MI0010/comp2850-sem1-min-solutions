@@ -149,10 +149,6 @@ select:focus {
 /* ========================================
    Task List
    ======================================== */
-ul li {
-  margin: 1.5rem 0;
-}
-
 .task-list {
   list-style: none;
   padding: 0;
@@ -197,7 +193,7 @@ ul li {
 .task-title {
   display: block;
   font-weight: 500;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.5rem;
   word-wrap: break-word;
 }
 
