@@ -152,7 +152,8 @@ select:focus {
 .task-list {
   list-style: none;
   padding: 0;
-  margin: 1rem 0;
+  /* margin: 1rem 0; */
+  margin: 3rem 0;
 }
 
 .task-item {
@@ -193,7 +194,7 @@ select:focus {
 .task-title {
   display: block;
   font-weight: 500;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.25rem;
   word-wrap: break-word;
 }
 
