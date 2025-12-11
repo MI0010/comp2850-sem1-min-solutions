@@ -37,4 +37,3 @@ ts_iso,session_id,request_id,task_code,step,outcome,ms,http_status,js_mode
 2025-11-08T12:28:12Z,P4_1b2z,r036,t3_edit,success,ok,12000,200,htmx
 2025-11-08T12:29:00Z,P4_1b2z,r037,t4_delete,start,ok,0,200,htmx
 2025-11-08T12:29:07Z,P4_1b2z,r038,t4_delete,success,ok,7000,200,htmx
-
