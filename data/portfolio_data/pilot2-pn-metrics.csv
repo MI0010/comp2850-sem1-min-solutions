@@ -7,8 +7,11 @@ ts_iso,session_id,request_id,task_code,step,outcome,ms,http_status,js_mode
 2025-11-26T12:27:17Z,P1_9r1t,r106,t3_edit,success,ok,17000,200,nojs
 2025-11-26T12:28:00Z,P1_9r1t,r107,t4_delete,start,ok,0,200,nojs
 2025-11-26T12:28:07Z,P1_9r1t,r108,t4_delete,success,ok,7000,200,nojs
-
 2025-11-28T10:51:00Z,P2_3g5h,r109,t1_add,start,ok,0,200,htmx
-2025-11-28T10:51:15Z,P2_3g5h,r110,t1_add,start,ok,15000,200,htmx
+2025-11-28T10:51:15Z,P2_3g5h,r110,t1_add,success,ok,15000,200,htmx
 2025-11-28T10:52:00Z,P2_3g5h,r111,t2_filter,start,ok,0,200,htmx
-2025-11-28T10:52:00Z,P2_3g5h,r112,t2_filter,start,ok,0,200,htmx
+2025-11-28T10:52:21Z,P2_3g5h,r112,t2_filter,success,ok,21000,200,htmx
+2025-11-28T10:53:00Z,P2_3g5h,r113,t3_edit,start,ok,0,200,htmx
+2025-11-28T10:53:25Z,P2_3g5h,r114,t3_edit,success,ok,25000,200,htmx
+2025-11-28T10:54:00Z,P2_3g5h,r115,t4_delete,start,ok,0,200,htmx
+2025-11-28T10:54:10Z,P2_3g5h,r116,t3_delete,success,ok,10000,200,htmx
