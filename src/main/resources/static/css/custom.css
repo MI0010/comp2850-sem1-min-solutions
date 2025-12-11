@@ -150,7 +150,7 @@ select:focus {
    Task List
    ======================================== */
 ul li {
-  margin-top: 4rem 0;
+  margin: 4rem 0;
 }
 
 .task-list {
