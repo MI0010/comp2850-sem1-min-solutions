@@ -149,11 +149,14 @@ select:focus {
 /* ========================================
    Task List
    ======================================== */
+ul li {
+  margin-top: 4rem 0;
+}
+
 .task-list {
   list-style: none;
   padding: 0;
-  /* margin: 1rem 0; */
-  margin: 3rem 0;
+  margin: 1rem 0;
 }
 
 .task-item {
